@@ -1,0 +1,46 @@
+
+
+
+
+body {
+  background-color: pink;
+}
+
+.Intro {
+  text-align: center;
+  font-family: 'Germania One', cursive;
+  font-size: 20px;
+}
+
+.UI {
+  width: 50%;
+  border:  solid green;
+  padding-bottom: 20%;
+  background: grey;
+  margin: 20px auto;
+  height: 200px;
+}
+
+.Calculation {
+  text-align: center;
+  font-size: 8vw;
+}
+
+.true {
+  float:left;
+  margin-left: 15%;
+  font-size: 4vw;
+
+}
+
+.false {
+  float: right;
+  margin-right: 15%;
+  font-size: 4vw;
+}
+
+.score {
+  font-size: 10vw;
+  text-align: center;
+  font-weight: bold;
+}
